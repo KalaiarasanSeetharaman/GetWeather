@@ -13,3 +13,7 @@ git add . -> add all files
 
 
 for modified files - git commit -a -m 'Update Copy'
+
+git remote -V  -> Taking git repo
+
+git branch
