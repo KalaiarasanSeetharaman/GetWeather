@@ -10,3 +10,6 @@ git push - to push gitgub.com
 git add . -> add all files
 
 :wq  -> after  merge saving in gitgub
+
+
+for modified files - git commit -a -m 'Update Copy'
