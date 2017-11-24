@@ -1,0 +1,12 @@
+Commadn Line
+Create gitignore file and write what are the file to ignore
+git add .   -> it mean it will add all files
+git clone https://github.com/KalaiarasanSeetharaman/Vanitham.git -> taking Project
+git status - see the files
+git add - to add files to git ub
+git commit -m "added index.html" - to commit the files
+git push - to push gitgub.com
+
+git add . -> add all files
+
+:wq  -> after  merge saving in gitgub
