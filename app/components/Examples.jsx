@@ -5,8 +5,8 @@ var Examples = React.createClass({
 		render:function(){
 			return (
 				<div>
-					<h1 className="text-center" id="examples"> Examples Component </h1>
-					<p>Some Pages</p>
+					<h1 className="text-center" id="examples"> Examples </h1>
+					<p>Here is few examples below</p>
 					<ol>
 						<li>
 							<Link to="/?location=Karur">Karur</Link>
