@@ -11,6 +11,9 @@ var Examples = require('Examples');
 require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
 
+// Custom Css
+require('style!css!applicationStyles')
+
 //var Route = require('react-router').Route -> This synatax is similar to above one
 
 ReactDOM.render(

@@ -3,7 +3,9 @@ var React = require('react');
 var About = React.createClass({
 		render:function(){
 			return (
-				<h3> About Component </h3>
+				<div>
+					<h1 className="text-center page-title" id="examples"> About Component  </h1>
+				</div>
 			);
 		}
 
