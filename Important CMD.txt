@@ -1,7 +1,7 @@
 Commadn Line
 Create gitignore file and write what are the file to ignore
 git add .   -> it mean it will add all files
-git clone https://github.com/KalaiarasanSeetharaman/Vanitham.git -> taking Project
+git clone https://github.com/dsfasdfdsfsdjkh/sadad.git -> taking Project
 git status - see the files
 git add - to add files to git ub
 git commit -m "added index.html" - to commit the files
@@ -20,3 +20,5 @@ git branch
 
 
 http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+https://www.youtube.com/watch?v=nrg7zhgJd4w
